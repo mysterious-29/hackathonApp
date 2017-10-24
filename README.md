@@ -1,2 +1,2 @@
 # nithEvent-Management
-An web app to manage nith events
+An web app to manage NIT Hamirpur events
